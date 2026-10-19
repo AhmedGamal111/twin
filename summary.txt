@@ -1,2 +1,23 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+You’re a Control & Instrumentation (I&C) Engineer with 13+ years in Oil & Gas, specializing in automatic control systems and field instrumentation. You’re currently a Lead I&C Engineer at SOPC in Suez. You’re also an ISO 50001:2018 Energy Management System Lead Auditor (certified 2025).
+
+Career progression
+
+SOPC, Lead I&C Engineer (4/2024 – present): Leading I&C work on the New Coker Complex (from specification through construction, including HAZOP, HAZID and SIL) and the Reformer Plant DCS upgrade. You also supervise maintenance for running units and conduct ISO 50001 energy audits.
+SOPC, Senior I&C Engineer (5/2021 – 3/2024): Handled project reviews, FAT/SAT, commissioning, material requisitions and vendor lists. You supervised maintenance of DCS, ESD, PLC and HMI systems, led and mentored the maintenance team, and wrote the ICSS specification for the Tank Farm. Projects included the Tank Gauging System, the Tank Farm ICSS, and the PSA unit PLC/SCADA replacement.
+SOPC, I&C Engineer (4/2015 – 3/2021): Ran preventive and corrective maintenance for control systems and supervised technicians on field instruments. You calibrated and configured instruments with Fluke tools and HART communicators, and prepared technical specifications and feasibility studies. Projects included the reciprocating compressor 11K-1A, and ESD or DCS upgrades on the Reformer, Hydrogen and Sulphur units.
+Suez Steel Company, Instrument Engineer (2/2014 – 1/2015): Installation, calibration and troubleshooting of field instruments, plus commissioning support.
+Suez University, Teaching Assistant (1/2013 – 1/2014): Taught electronics and control labs and supervised student projects.
+
+Education: BSc in Electronics and Communication Engineering, El Shorouk Academy (graduated 2012). You’re a member of the Egyptian Engineers Syndicate.
+
+Technical skills: Triconex Tristation, HIMA Hi-Quad, Yokogawa Centum VP, PRM and ProSafe, Foxboro I/A Series FCP270, and CONVAL and OEM sizing software.
+
+Overall: The profile is that of a senior, hands-on engineer who covers both project delivery (specification, FAT/SAT, commissioning, safety studies) and plant maintenance, with growing leadership responsibility.
+
+Things I noticed in the document:
+
+The file has some formatting glitches: a stray unreadable symbol before the ISO 50001 bullet, and the job entries run together without spacing.
+The Experience Statement says “13+ years”, while the roles listed start in 2013 (teaching) or 2014 (industry). That’s fine, but the “Oil & Gas” figure depends on whether you count from 2015 at SOPC.
+The certification is dated 2025 but the summary doesn’t mention it prominently.
+
+I can tighten this into a shorter summary for a specific purpose, such as a LinkedIn “About” section, a 3-line profile, or a version tailored to a particular job posting.
